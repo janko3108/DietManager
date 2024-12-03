@@ -1,0 +1,116 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DietManagerApplication",
+            "request": "launch",
+            "mainClass": "DietManagerApplication",
+            "projectName": "dietmanager801g1-10_7ce3097a"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerApplication",
+            "request": "launch",
+            "mainClass": "DietManagerApplication",
+            "projectName": "dietmanager801g1-3_7ff84773"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerApplication",
+            "request": "launch",
+            "mainClass": "DietManagerApplication",
+            "projectName": "dietmanager801g1_36700ab5"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerApplication",
+            "request": "launch",
+            "mainClass": "DietManagerApplication",
+            "projectName": "dietmanager801g1-2_ab52860e"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerApplication",
+            "request": "launch",
+            "mainClass": "DietManagerApplication",
+            "projectName": "dietmanager801g1-1_ab52860d"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerApplication",
+            "request": "launch",
+            "mainClass": "DietManagerApplication",
+            "projectName": "dietmanager801g1_2b9986a9"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerApplication",
+            "request": "launch",
+            "mainClass": "DietManagerApplication",
+            "projectName": "dietmanager801g1-6_2d51a57b"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerApplication",
+            "request": "launch",
+            "mainClass": "DietManagerApplication",
+            "projectName": "dietmanager801g1_2c242967"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerRunner",
+            "request": "launch",
+            "mainClass": "DietManagerRunner",
+            "projectName": "dietmanager801g1_2c242967"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerRunner",
+            "request": "launch",
+            "mainClass": "DietManagerRunner",
+            "projectName": "dietmanager801g1_1cae01db"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerRunner",
+            "request": "launch",
+            "mainClass": "DietManagerRunner",
+            "projectName": "dietmanager801g1-2_7ff84772"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerRunner",
+            "request": "launch",
+            "mainClass": "DietManagerRunner",
+            "projectName": "dietmanager801g1-6_ab528612"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerRunner",
+            "request": "launch",
+            "mainClass": "DietManagerRunner",
+            "projectName": "dietmanager801g1-4_2d51a579"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerRunner",
+            "request": "launch",
+            "mainClass": "DietManagerRunner",
+            "projectName": "dietmanager801g1-5_ab528611"
+        },
+        {
+            "type": "java",
+            "name": "DietManagerRunner",
+            "request": "launch",
+            "mainClass": "DietManagerRunner",
+            "projectName": "dietmanager801g1_3497bfe6"
+        },
+        {
+            "type": "java",
+            "name": "Run with AppMap",
+            "request": "launch",
+            "mainClass": "",
+            "vmArgs": "-javaagent:${userHome}\\.appmap\\lib\\java\\appmap.jar"
+        }
+    ]
+}

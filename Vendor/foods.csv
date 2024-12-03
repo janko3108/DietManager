@@ -1,0 +1,42 @@
+b,Pizza Slice,298.0,12.1,34.0,13.3
+b,Berry Pie Slice,360.0,17.5,49.2,4.0
+b,Yogurt (4oz),100.0,1.5,19.0,4.0
+b,Hot Dog,190.0,16.0,4.0,7.0
+b,Hot Dog Bun,110.0,1.5,21.0,3.0
+r,HotDog&Bun,Hot Dog,1.0,Hot Dog Bun,1.0
+b,Potato Salad (cup),358.0,20.5,27.9,6.7
+b,Bread (slice),80.0,1.0,15.0,2.0
+b,Peanut Butter (tbsp),95.0,8.0,3.5,4.0
+r,PB Sandwich,Bread (slice),2.0,Peanut Butter (tbsp),2.0
+b,Jelly (tbsp),56.0,6.3,14.7,0.0
+r,PB+J Sandwich,PB Sandwich,1.0,Jelly (tbsp),1.0
+b,Cola (can),140.0,0.0,39.0,0.0
+r,Bad Dinner,Pizza Slice,2.0,HotDog+Bun,2.0,Potato Salad (cup),1.8,Cola (can),1.0,Berry Pie Slice,1.5
+b,Ejup Elezi,0.1,0.2,0.3,0.4
+r,Sarma,Laker,2.0,Mish,2.0
+r,aa,Pizza Slice,5.0,Berry Pie Slice,5.0
+r,aad,Pizza Slice,5.0,Berry Pie Slice,5.0,Yogurt (4oz),5.0
+r,gg,Berry Pie Slice,4.0,Hot Dog,4.0
+r,nnn,Berry Pie Slice,3.0,Hot Dog,3.0
+r,nn,Pizza Slice,3.0,Berry Pie Slice,3.0
+r,hhh,Pizza Slice,3.0,Berry Pie Slice,6.0,Hot Dog,8.0
+r,per,Pizza Slice,7.0,Yogurt (4oz),9.0,Hot Dog,8.0
+r,as,Pizza Slice,3.0,Yogurt (4oz),5.0,Hot Dog,6.0
+r,fg,Pizza Slice,4.0,Berry Pie Slice,56.0,Hot Dog,5.0
+r,tester,Pizza Slice,76.0,Berry Pie Slice,78.0,Yogurt (4oz),87.0
+r,res,Berry Pie Slice,87.0,Yogurt (4oz),98.0,Hot Dog,76.0
+r,jhy,Berry Pie Slice,88.0,Yogurt (4oz),87.0,Hot Dog,9.0
+r,tester4,Pizza Slice,87.0,Berry Pie Slice,89.0,Hot Dog,98.0
+r,tert34,Berry Pie Slice,87.0,Yogurt (4oz),98.0,Hot Dog,98.0
+r,hhhj,Pizza Slice,3.0,Berry Pie Slice,5.0,Hot Dog,6.0
+b,sd,1.0,2.0,3.0,4.0
+r,tester65,Pizza Slice,54.0,Berry Pie Slice,54.0,Yogurt (4oz),6.0
+r,Name,Pizza Slice,4.0,Berry Pie Slice,3.0,Hot Dog,7.0
+r,2,Berry Pie Slice,1.0,Yogurt (4oz),3.0,HotDog&Bun,3.0
+b,hefi,2.0,2.0,2.0,2.0
+r,Name111111,Pizza Slice,1.0,Berry Pie Slice,2.0,Yogurt (4oz),3.0
+b,fsad,2.0,2.0,2.0,2.0
+r,4124123,Pizza Slice,1.0,Yogurt (4oz),2.0,Hot Dog,2.0
+r,Name111,Pizza Slice,1.0,Yogurt (4oz),1.0,Hot Dog Bun,1.0
+b,123121,1.0,1.0,1.0,1.0
+b,dadadada,12.0,1.0,2.0,3.0
